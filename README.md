@@ -40,7 +40,7 @@ Run *polygon_by_mouse.py*.
  4. Move your cursor back to the video screen and hit the \<q> to terminate the process.
  
  ## Visualizing Tracks
- ![skier tracks](initial_with_skiers.jpg?raw=true "Title")
+ ![skier tracks](reference_images/initial_with_skiers.jpg?raw=true "Title")
 
  Run *tracks_on_start_image.py*.
  1. 
